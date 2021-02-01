@@ -36,4 +36,4 @@ An easy to use, multipurpose discord bot written in Python.
 argument... - Multiple arguments can be provided
 ```
 
-**Please do not run your own instance.** There is nothing stopping you from doing so, but please don't as this bot is difficult to setup.
+**Please do not run your own instance.** There is nothing stopping you from doing so, but please don't as this bot is difficult to setup. Instead, invite the hosted instance of the bot [here](https://discord.com/oauth2/authorize?client_id=719907834120110182&scope=bot&permissions=104189127)
